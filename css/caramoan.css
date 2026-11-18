@@ -1,0 +1,30 @@
+.caramoan {
+  min-height: 750px;
+  background-image: url('../images/caramoan.jpg');
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  color: white;
+}
+
+.caramoan p {
+  text-align: center;
+}
+
+
+.caramoan h1 {
+  text-align: center;
+  padding-top: 100px;
+}
+
+.caramoan h2 {
+  text-align: center;
+  padding-top: 100px;
+}
+
+.caramoan .course {
+  padding-top: 30px;
+  display: flex;
+  justify-content: space-around;
+}
+

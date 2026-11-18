@@ -1,0 +1,30 @@
+.goa {
+  min-height: 750px;
+  background-image: url('../images/goa.jpg');
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  color: white;
+}
+
+.goa p {
+  text-align: center;
+}
+
+
+.goa h1 {
+  text-align: center;
+  padding-top: 100px;
+}
+
+
+.goa h2 {
+  text-align: center;
+  padding-top: 100px;
+}
+
+.goa .course {
+  padding-top: 30px;
+  display: flex;
+  justify-content: space-around;
+} 
